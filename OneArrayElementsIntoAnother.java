@@ -16,6 +16,5 @@ public class OneArrayElementsIntoAnother {
         System.out.print(newarr[j]+ " ");
         
     }
-    
   }    
 }
